@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/boosttoml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Boost numeric toml values, ranges, and human-readable units.",
+  "bin": {
+    "boosttoml": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/boosttoml.git"
+  },
+  "homepage": "https://theworker02.github.io/boosttoml/",
+  "keywords": [
+    "boost",
+    "toml",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
